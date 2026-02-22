@@ -17,6 +17,13 @@ This project is an AI-based system that detects whether a news article is Fake o
 - Streamlit
 
 ## Dataset
+The dataset is not included in this repository due to GitHub file size limits.
+
+You can download it from Kaggle:
+
+Fake and Real News Dataset
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 - Fake.csv
 - True.csv
 
